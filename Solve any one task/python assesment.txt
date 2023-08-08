@@ -1,0 +1,14 @@
+Senario 
+
+Consider you have two folders "folder_1" and "folder_2" 
+ *In  "folder_1" there are mp4 video files their names are (1.mp4 , 2.mp4 , 3.mp4 ...) 
+ *Need to create a python script to rename video files to ("VS_001", "VS_002", "VS_003")
+ *Those files should be coppy to "folder_2" after renaming 
+ * Do not move files from "folder_1" orginal files must keep in "folder_1"
+
+1.Create a Python script to execute the above scenario. You can use any preferred Python libraries. Remember to consider error handling.
+
+2.Create another script to automate this process every hour during the day (if the number of video files in "folder_1" increases after one hour). You can modify the above script, but create a new script for this purpose.
+
+3.Submit two separate scripts.
+
